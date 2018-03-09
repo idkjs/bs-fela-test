@@ -1,0 +1,13 @@
+{
+  "name": "bs-react-fela-examples",
+  "sources": ["src"],
+  "bs-dependencies": [
+    "reason-react",
+    "@astrada/bs-react-fela",
+    "bs-css-core"
+  ],
+  "reason": {
+    "react-jsx": 2
+  },
+  "refmt": 3
+}
