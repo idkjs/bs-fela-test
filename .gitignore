@@ -3,3 +3,5 @@ lib
 node_modules
 build
 .bsb.lock
+.DS_Store
+src/.DS_Store
